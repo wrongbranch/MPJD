@@ -1,2 +1,12 @@
-# MPJD
-Mysterious Paper Journals &amp; Databases / 怪論文ジャーナル・データベース
+# Mysterious Paper Journals &amp; Databases
+怪論文ジャーナル・データベース  
+  
+# 怪論文ジャーナル・データベースとは  
+ネーミングは適当です.  
+世に蔓延る謎・怪・不明な論文を集め,ここに集約し,査読でオッを集めて最強のジャーナル誌を作ろうというわけの分からない何かです.  
+
+# 勝手にジャーナル誌を名乗ってもいいの?  
+知るか  
+
+# Project Roadmap  
+？
