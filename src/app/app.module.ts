@@ -3,7 +3,12 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { MaterialModule } from '@angular/material';
+import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
+
+const appRoutes: Routes = [
+    //TODO: Insert 何か here
+];
 
 @NgModule({
   declarations: [
@@ -13,7 +18,8 @@ import { AppComponent } from './app.component';
     BrowserModule,
     FormsModule,
     HttpModule,
-    MaterialModule.forRoot()
+    MaterialModule.forRoot(),
+    RouterModule.forRoot(appRoutes)
   ],
   providers: [],
   bootstrap: [AppComponent]
